@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest_Local\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\Source\\Repos\\Year9PytonTest_Local\\test_Task_01a.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_Task_01a.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\Source\\Repos\\Year9PytonTest_Local\\Task_01a.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_01a.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 302,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_Task_01a.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\Source\\Repos\\Year9PytonTest_Local\\test_Task_01a.py",
+              "RelativeDocumentMoniker": "test_Task_01a.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\Source\\Repos\\Year9PytonTest_Local\\test_Task_01a.py",
+              "RelativeToolTip": "test_Task_01a.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-16T02:40:36.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task_01a.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\Source\\Repos\\Year9PytonTest_Local\\Task_01a.py",
+              "RelativeDocumentMoniker": "Task_01a.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\Source\\Repos\\Year9PytonTest_Local\\Task_01a.py",
+              "RelativeToolTip": "Task_01a.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-16T02:40:08.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
