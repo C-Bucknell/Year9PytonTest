@@ -1,12 +1,17 @@
 
-#Task 1a Echo
+#Task 1b More Echos
 '''
-Task 1 Echo (3marks)
-Part a
-When you shout across a valley you can often hear an echo back. Write a program to echo back whatever you say to it. Your program should work like this:
+Task 1 More Echo (2marks)
+Part b
+
+Add to the code from part 1 to print out the echo on a separate line. Your program should work like this:
 =========================
 Shout: hello
 hello hello hello
+
+hello
+hello
+hello
 =========================  
 '''
 def main():
@@ -14,7 +19,8 @@ def main():
   # Write your code for input here
   var = input('Shout: ')
   print(f'{var} {var} {var}')
-  
+  print(f'\n{var}\n{var}\n{var}')
+  #print(f'\n{var}')
   # End of your code for input here
   #===============================
 
