@@ -19,8 +19,9 @@ def main():
   # Write your code for input here
   var = input('Shout: ')
   print(f'{var} {var} {var}')
-  print(f'\n{var}\n{var}\n{var}')
-  #print(f'\n{var}')
+  print()
+  for i in range(0,3):
+          print(var)
   # End of your code for input here
   #===============================
 
