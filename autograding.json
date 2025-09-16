@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "Echo Input Test",
+      "setup": "",
+      "run": "python -m unittest test_task1a.py",
+      "input": "",
+      "expected_output": "",
+      "timeout": 10
+    }
+  ]
+}

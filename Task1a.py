@@ -13,7 +13,7 @@ def main():
   #===============================
   # Write your code for input here
   var = input('Shout: ')
-  print(f'{var}x3')
+  print(f'{var} {var} {var}')
   
   # End of your code for input here
   #===============================
