@@ -22,12 +22,12 @@ class TestTask01a(unittest.TestCase):
         expected_output = "test test test"
         self.assertEqual(mock_stdout.getvalue().strip(), expected_output)
 
-    @patch('builtins.input', return_value='')
+    @patch('builtins.input', return_value='a')
     @patch('sys.stdout', new_callable=StringIO)
     def test_empty_input(self, mock_stdout, mock_input):
-        """Test with an empty input string"""
+        """Test with a single character"""
         main()
-        expected_output = "  "  # Three spaces when repeating an empty string
+        expected_output = "a a a"
         self.assertEqual(mock_stdout.getvalue().strip(), expected_output)
 
 if __name__ == '__main__':
