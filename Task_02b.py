@@ -21,10 +21,10 @@ Polo!
 def main():
   #===============================
   # Write your code for input here
-  text = input("Text: ").title()
-  if text == "Marco!":
-      print("Polo!")
-      
+  text = input("Text: ")
+  if text.lower() == "marco!":
+    print("Polo!")    
+
 
   # End of your code for input here
   #===============================
