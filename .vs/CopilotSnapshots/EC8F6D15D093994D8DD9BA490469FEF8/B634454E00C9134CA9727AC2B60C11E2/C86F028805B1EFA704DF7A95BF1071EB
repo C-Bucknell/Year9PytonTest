@@ -21,15 +21,25 @@ Speedy
 
 '''
 
-
+def process_racers(racers: str, sleep_racer: str):
+    racers_list = racers.split(", ")
+    sorted_racers_list = sorted(racers_list)
+    if sleep_racer in sorted_racers_list:
+        sorted_racers_list.remove(sleep_racer)
+        message = None
+    else:
+        message = "All the racers are still awake."
+    return sorted_racers_list, message
 
 def main():
-  #===============================
-  # Write your code here
-    
-
-  # End of your code here
-  #===============================
+    racers = input("And the line up is: ")
+    sleep_Racer = input("Who's gone to sleep? ")
+    sorted_racers_list, message = process_racers(racers, sleep_Racer)
+    print("Remaining racers: ")
+    for racer in sorted_racers_list:
+        print(racer)
+    if message:
+        print(message)
 
 if __name__ == '__main__':
     main()

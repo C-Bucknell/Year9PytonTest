@@ -34,12 +34,10 @@ How many sheep: 9
 '''
 def main():
   #===============================
-  # Write your code for input here
-  sheep = int(input("How many sheep: "))
-  for i in range(1, sheep + 1):
-      print(f"{i} sheep")
+  # Write your code here
+    
 
-  # End of your code for input here
+  # End of your code here
   #===============================
 
 if __name__ == '__main__':

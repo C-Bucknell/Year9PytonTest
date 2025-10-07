@@ -18,15 +18,10 @@ All good.
 '''
 def main():
   #===============================
-  # Write your code for input here
-  charge = input("Remaining charge: ")
-  if charge > 5:
-      print("All good.")
-  else:
-    print("Connect your charger!")
-      
+  # Write your code here
+    
 
-  # End of your code for input here
+  # End of your code here
   #===============================
 
 if __name__ == '__main__':

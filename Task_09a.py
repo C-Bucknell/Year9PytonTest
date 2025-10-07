@@ -35,25 +35,12 @@ Remaining racers: Dash, Speedy, Lighting, Flash, Sonic
 
 
 def main():
-    #===============================
-    # Write your code for input here
-    #==============================
-    #And the line up is: Dash, Speedy, Lighting, Flash, Sonic
-    racers = input("And the line up is: ")
-    racers_list = racers.split(", ")
-    sleep_Racer = input("Who's gone to sleep? ")
-    if sleep_Racer in racers_list:
-        index = racers_list.index(sleep_Racer)
-        racers_list[index] = "Disqualified"
-        print(f"{sleep_Racer} has been disqualified!")
-    else:
-        print("All snails still awake.")
-        
-    print("Remaining racers: " + ", ".join(racers_list))
+  #===============================
+  # Write your code here
     
-#===============================
-# End of your code for input here
-#===============================
+
+  # End of your code here
+  #===============================
 
 if __name__ == '__main__':
     main()

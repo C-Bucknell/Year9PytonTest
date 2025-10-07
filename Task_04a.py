@@ -31,13 +31,10 @@ Years until your letter...
 '''
 def main():
   #===============================
-  # Write your code for input here
-  age = input("How old are you? ")
-  years_Until_letter = 100 - age
-  print("Years until your letter...")
-  print(years_Until_letter)    
+  # Write your code here
+    
 
-  # End of your code for input here
+  # End of your code here
   #===============================
 
 if __name__ == '__main__':

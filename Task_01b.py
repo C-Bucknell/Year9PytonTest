@@ -15,14 +15,11 @@ hello
 =========================  
 '''
 def main():
-  #===============================
-  # Write your code for input here
-  var = input('Shout: ')
-  print(f'{var} {var} {var}')
-  print()
-  for i in range(0,3):
-          print(var)
-  # End of your code for input here
+ #===============================
+  # Write your code here
+    
+
+  # End of your code here
   #===============================
 
 if __name__ == '__main__':

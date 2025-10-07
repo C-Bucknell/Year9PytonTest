@@ -31,13 +31,10 @@ Yasssssss!
 '''
 def main():
   #===============================
-  # Write your code for input here
-  input_Word = input("Say: ")
-  last_Letter = input_Word[-1]
-  new_Word = input_Word + last_Letter * 5 + "!"
-  print(new_Word) 
+  # Write your code here
+    
 
-  # End of your code for input here
+  # End of your code here
   #===============================
 
 if __name__ == '__main__':

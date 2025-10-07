@@ -13,17 +13,10 @@ You already got your letter 11 years ago
 '''
 def main():
   #===============================
-  # Write your code for input here
-  age = input("How old are you? ")
-  if age > 100:
-      years_Until_letter = age - 100
-      print(f'You already got your letter {years_Until_letter} years ago')
-  else:
-      years_Until_letter = 100 - age
-      print("Years until your letter...")
-      print(years_Until_letter)    
+  # Write your code here
+    
 
-  # End of your code for input here
+  # End of your code here
   #===============================
 
 if __name__ == '__main__':

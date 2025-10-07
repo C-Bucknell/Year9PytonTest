@@ -10,12 +10,11 @@ hello hello hello
 =========================  
 '''
 def main():
-  #===============================
-  # Write your code for input here
-  var = input('Shout: ')
-  print(f'{var} {var} {var}')
-  
-  # End of your code for input here
+ #===============================
+  # Write your code here
+    
+
+  # End of your code here
   #===============================
 
 if __name__ == '__main__':

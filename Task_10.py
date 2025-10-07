@@ -51,36 +51,13 @@ HINT: A dictionary works well for this function.
 
 '''
 
- #===============================
- # Write your code below here
- #==============================
-
 def format_days(short_days):
-    # Dictionary mapping short day names to full day names
-    day_mapping = {
-        'Mon': 'Monday',
-        'Tue': 'Tuesday',
-        'Wed': 'Wednesday',
-        'Thu': 'Thursday',
-        'Fri': 'Friday',
-        'Sat': 'Saturday',
-        'Sun': 'Sunday'
-    }
+  #===============================
+  # Write your code here
     
-    # List to hold the full day names
-    full_days = []
-    
-    # Iterate through the input list and convert to full names
-    short_days_list= short_days.split(',')
-    for day in short_days_list:
-        if day.strip() in day_mapping:
-            full_days.append(day_mapping[day.strip()])
-    
-    return full_days
 
-#===============================
-# End of your code here
-#===============================
+  # End of your code here
+  #===============================
 
 def main():
    short_days_list = input("Enter short day names separated by commas: ")

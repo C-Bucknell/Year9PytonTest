@@ -1,0 +1,32 @@
+﻿import unittest
+from Task_09b import process_racers
+
+class TestTask09b(unittest.TestCase):
+    def test_alphabetical_sort(self):
+        racers = "Dash, Speedy, Lighting, Flash, Sonic"
+        sleep_racer = ""
+        result, _ = process_racers(racers, sleep_racer)
+        self.assertEqual(result, ['Dash', 'Flash', 'Lighting', 'Sonic', 'Speedy'])
+
+    def test_remove_racer(self):
+        racers = "Dash, Speedy, Lighting, Flash, Sonic"
+        sleep_racer = "Dash"
+        result, _ = process_racers(racers, sleep_racer)
+        self.assertNotIn('Dash', result)
+        self.assertEqual(result, ['Flash', 'Lighting', 'Sonic', 'Speedy'])
+
+    def test_racer_not_found_message(self):
+        racers = "Dash, Speedy, Lighting, Flash, Sonic"
+        sleep_racer = "Turbo"
+        result, message = process_racers(racers, sleep_racer)
+        self.assertEqual(result, ['Dash', 'Flash', 'Lighting', 'Sonic', 'Speedy'])
+        self.assertEqual(message, "All the racers are still awake.")
+
+    def test_correct_output_after_removal(self):
+        racers = "Dash, Speedy, Lighting, Flash, Sonic"
+        sleep_racer = "Lighting"
+        result, _ = process_racers(racers, sleep_racer)
+        self.assertEqual(result, ['Dash', 'Flash', 'Sonic', 'Speedy'])
+
+if __name__ == '__main__':
+    unittest.main()

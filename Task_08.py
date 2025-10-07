@@ -40,21 +40,12 @@ HINT: Any symbol or a music note symbol will do!
 
 
 def main():
-    #===============================
-    # Write your code here
-    #==============================
-    Band = input('Band: ')
-    Songs = input('Songs: ')
-    print(f'Please welcome to the stage, {Band}!')
-    print('They will be playing...')
-    song_list = Songs.split()
-    for song in song_list:
-           print(f'🎵 {song}')
-    print(f'Give it up for {Band}!')
+  #===============================
+  # Write your code here
     
-#===============================
-# End of your code here
-#===============================
+
+  # End of your code here
+  #===============================
 
 if __name__ == '__main__':
     main()

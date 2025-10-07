@@ -27,13 +27,10 @@ Text: Why is this game called Marco! Polo! anyway?
 '''
 def main():
   #===============================
-  # Write your code for input here
-  text = input("Text: ")
-  if text == "Marco!":
-      print("Polo!")
-      
+  # Write your code here
+    
 
-  # End of your code for input here
+  # End of your code here
   #===============================
 
 if __name__ == '__main__':
