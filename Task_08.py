@@ -41,10 +41,10 @@ HINT: Any symbol or a music note symbol will do!
 
 def main():
     #===============================
-    # Write your code for input here
+    # Write your code here
     #==============================
     Band = input('Band: ')
-    Songs = input('Songs: ')
+    Songs = input('Song: ')
     print(f'Please welcome to the stage, {Band}!')
     print('They will be playing...')
     song_list = Songs.split()
@@ -53,7 +53,7 @@ def main():
     print(f'Give it up for {Band}!')
     
 #===============================
-# End of your code for input here
+# End of your code here
 #===============================
 
 if __name__ == '__main__':
