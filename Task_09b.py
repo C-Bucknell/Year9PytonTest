@@ -33,13 +33,7 @@ def main():
 
     sleep_Racer = input("Who's gone to sleep? ")
     if sleep_Racer in sorted_racers_list:
-        racers_list.remove(sleep_Racer)
-        index = sorted_racers_list.index(sleep_Racer)
-        #Delete the racer from the list
-        #my_list.remove(2)  # Removes the first occurrence of 2
-
-        sorted_racers_list[index] = "Disqualified"
-        print(f"{sleep_Racer} has been disqualified!")
+        sorted_racers_list.remove(sleep_Racer)
     else:
         print("All snails still awake.")
         

@@ -44,7 +44,7 @@ def main():
     # Write your code here
     #==============================
     Band = input('Band: ')
-    Songs = input('Song: ')
+    Songs = input('Songs: ')
     print(f'Please welcome to the stage, {Band}!')
     print('They will be playing...')
     song_list = Songs.split()
