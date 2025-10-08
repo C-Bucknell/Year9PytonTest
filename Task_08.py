@@ -1,6 +1,6 @@
-﻿#Task 8 Band Welcome 🎵
+#Task 8 Band Welcome !
 '''
-Task 8 Band Welcome 🎵 (7 marks)
+Task 8 Band Welcome ! (7 marks)
 
 Your band has its very first gig! What songs are you going to play?
 
