@@ -4,6 +4,7 @@ import io
 import sys
 from Task_08 import main
 
+
 class TestTask08(unittest.TestCase):
     # Test 1
     @patch('builtins.input', side_effect=["The One Word Wonders", "Song Lyric Ballad"])
