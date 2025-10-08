@@ -19,7 +19,7 @@ class TestTask06b(unittest.TestCase):
     def test_word_without_o(self, mock_stdout, mock_input):
         """Test a word without 'o' - replacement should not occur"""
         main()
-        expected_output = "New word!\nc\na\nt\nt\nt\nt\nt\nt\ncattttt!"
+        expected_output = "New word!\nc\na\nt\nt\nt\nt\nt\nt\ncatttttt!"
         self.assertEqual(mock_stdout.getvalue().strip(), expected_output)
 
     @patch('builtins.input', return_value='book')
@@ -27,7 +27,7 @@ class TestTask06b(unittest.TestCase):
     def test_word_with_multiple_o(self, mock_stdout, mock_input):
         """Test a word with multiple 'o's to check all are replaced"""
         main()
-        expected_output = "New word!\nb\ny\ny\nk\nk\nk\nk\nk\nk\nbyykkkkk!"
+        expected_output = "New word!\nb\ny\ny\nk\nk\nk\nk\nk\nk\nbyykkkkkk!"
         self.assertEqual(mock_stdout.getvalue().strip(), expected_output)
 
     @patch('builtins.input', return_value='o')
