@@ -1,6 +1,6 @@
 #Task 7 Debugging
 '''
-Task 7 Debugging (9marks)
+Task 7 Debugging (8marks)
 
 The following code uses a function hello to return Hello 
 and your name. This code currently has some errors and needs 

@@ -1,4 +1,4 @@
-#Task 8 Band Welcome !
+﻿#Task 8 Band Welcome !
 '''
 Task 8 Band Welcome ! (7 marks)
 
@@ -41,7 +41,7 @@ def main():
     x="Task8"
     #===============================
     # Write your code here
-    
+
 
     
     # End of your code here

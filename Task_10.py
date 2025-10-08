@@ -1,6 +1,6 @@
 ﻿#Task 10 Week Days
 '''
-Task 10 Week Days (10 marks)
+Task 10 Week Days (12 marks)
 
 Write a function called format_days which takes a list of strings in its argument.
 

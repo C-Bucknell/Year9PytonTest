@@ -1,4 +1,4 @@
-#Task 8 Band Welcome !
+﻿#Task 8 Band Welcome !
 '''
 Task 8 Band Welcome ! (7 marks)
 
@@ -38,11 +38,25 @@ HINT: Use "!" as the symbol in front of the songs!
 '''
 
 def main():
-    x="Task8"
     #===============================
     # Write your code here
     
-
+    # Get band name and song list from user input
+    band_name = input()
+    songs = input()
+    
+    # Display the welcome message
+    print(f"Please welcome to the stage, {band_name}!")
+    print("They will be playing...")
+    
+    # Display each song with "!" prefix if there are songs
+    if songs:
+        song_list = songs.split()
+        for song in song_list:
+            print(f"! {song}")
+    
+    # Final message
+    print(f"Give it up for {band_name}!")
     
     # End of your code here
     #===============================
