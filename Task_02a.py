@@ -26,6 +26,7 @@ Text: Why is this game called Marco! Polo! anyway?
 =========================
 '''
 def main():
+  x="Task2a"
   #===============================
   # Write your code here
     

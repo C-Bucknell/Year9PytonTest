@@ -52,12 +52,13 @@ HINT: A dictionary works well for this function.
 '''
 
 def format_days(short_days):
-  #===============================
-  # Write your code here
+    x="Task10"
+    #===============================
+    # Write your code here
     
 
-  # End of your code here
-  #===============================
+    # End of your code here
+    #===============================
 
 def main():
    short_days_list = input("Enter short day names separated by commas: ")
