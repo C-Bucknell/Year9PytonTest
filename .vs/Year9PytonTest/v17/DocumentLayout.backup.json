@@ -3,8 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_09b.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_Task_09b.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_01a.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_Task_01a.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_08.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_Task_08.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_09a.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_Task_09a.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_10.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_Task_10.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_10.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_10.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_09b.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_09b.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_09a.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_09a.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_08.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_08.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_07.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_07.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_06b.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_06b.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_06a.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_06a.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_05.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_05.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_04b.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_04b.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_04a.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_04a.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_03b.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_03b.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_03a.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_03a.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_02b.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_02b.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_02a.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_02a.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_01a.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_01a.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_01b.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_01b.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_07.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -15,8 +91,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_Task_06b.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_09b.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_09b.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_09b.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_Task_09b.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,51 +111,298 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "test_Task_08.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_08.py",
+              "RelativeDocumentMoniker": "test_Task_08.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_08.py",
+              "RelativeToolTip": "test_Task_08.py",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:49:57.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test_Task_10.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_10.py",
+              "RelativeDocumentMoniker": "test_Task_10.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_10.py",
+              "RelativeToolTip": "test_Task_10.py",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:49:50.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_Task_09a.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_09a.py",
+              "RelativeDocumentMoniker": "test_Task_09a.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_09a.py",
+              "RelativeToolTip": "test_Task_09a.py",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:49:43.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task_10.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_10.py",
+              "RelativeDocumentMoniker": "Task_10.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_10.py",
+              "RelativeToolTip": "Task_10.py",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:42:29.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task_09a.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_09a.py",
+              "RelativeDocumentMoniker": "Task_09a.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_09a.py",
+              "RelativeToolTip": "Task_09a.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:41:28.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task_08.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_08.py",
+              "RelativeDocumentMoniker": "Task_08.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_08.py",
+              "RelativeToolTip": "Task_08.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:40:53.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task_07.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_07.py",
+              "RelativeDocumentMoniker": "Task_07.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_07.py",
+              "RelativeToolTip": "Task_07.py",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:40:33.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task_06b.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_06b.py",
+              "RelativeDocumentMoniker": "Task_06b.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_06b.py",
+              "RelativeToolTip": "Task_06b.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:40:06.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Task_06a.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_06a.py",
+              "RelativeDocumentMoniker": "Task_06a.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_06a.py",
+              "RelativeToolTip": "Task_06a.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:39:39.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Task_05.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_05.py",
+              "RelativeDocumentMoniker": "Task_05.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_05.py",
+              "RelativeToolTip": "Task_05.py",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:39:16.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task_04b.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_04b.py",
+              "RelativeDocumentMoniker": "Task_04b.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_04b.py",
+              "RelativeToolTip": "Task_04b.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:38:48.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Task_04a.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_04a.py",
+              "RelativeDocumentMoniker": "Task_04a.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_04a.py",
+              "RelativeToolTip": "Task_04a.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:38:12.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Task_03b.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_03b.py",
+              "RelativeDocumentMoniker": "Task_03b.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_03b.py",
+              "RelativeToolTip": "Task_03b.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:37:46.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Task_03a.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_03a.py",
+              "RelativeDocumentMoniker": "Task_03a.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_03a.py",
+              "RelativeToolTip": "Task_03a.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:37:14.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Task_02b.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_02b.py",
+              "RelativeDocumentMoniker": "Task_02b.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_02b.py",
+              "RelativeToolTip": "Task_02b.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:36:43.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Task_02a.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_02a.py",
+              "RelativeDocumentMoniker": "Task_02a.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_02a.py",
+              "RelativeToolTip": "Task_02a.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:35:11.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Task_01b.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_01b.py",
+              "RelativeDocumentMoniker": "Task_01b.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_01b.py",
+              "RelativeToolTip": "Task_01b.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:34:59.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Task_01a.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_01a.py",
+              "RelativeDocumentMoniker": "Task_01a.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_01a.py",
+              "RelativeToolTip": "Task_01a.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T05:34:30.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_Task_01a.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_01a.py",
+              "RelativeDocumentMoniker": "test_Task_01a.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_01a.py",
+              "RelativeToolTip": "test_Task_01a.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-08T04:34:19.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "test_Task_07.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_07.py",
               "RelativeDocumentMoniker": "test_Task_07.py",
               "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_07.py",
               "RelativeToolTip": "test_Task_07.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-10-08T04:22:53.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "test_Task_06b.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_06b.py",
               "RelativeDocumentMoniker": "test_Task_06b.py",
               "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_06b.py",
               "RelativeToolTip": "test_Task_06b.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-10-08T04:08:32.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Task_09b.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_09b.py",
               "RelativeDocumentMoniker": "Task_09b.py",
               "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\Task_09b.py",
               "RelativeToolTip": "Task_09b.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-10-08T03:50:37.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 22,
               "Title": "test_Task_09b.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_09b.py",
               "RelativeDocumentMoniker": "test_Task_09b.py",
               "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\Year9PytonTest\\test_Task_09b.py",
               "RelativeToolTip": "test_Task_09b.py",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAEYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAFAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-10-08T03:48:54.537Z",
               "EditorCaption": ""

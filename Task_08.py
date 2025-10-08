@@ -15,9 +15,9 @@ Band: The One Word Wonders
 Songs: Song Lyric Ballad
 Please welcome to the stage, The One Word Wonders!
 They will be playing...
-🎵 Song
-🎵 Lyric
-🎵 Ballad
+! Song
+! Lyric
+! Ballad
 Give it up for The One Word Wonders!
 ========================= 
 
@@ -27,13 +27,13 @@ Band: Lady Gaga
 Songs: Paparazzi Applause Shallow
 Please welcome to the stage, Lady Gaga!
 They will be playing...
-🎵 Paparazzi
-🎵 Applause
-🎵 Shallow
+! Paparazzi
+! Applause
+! Shallow
 Give it up for Lady Gaga!
 =========================
 
-HINT: Any symbol or a music note symbol will do!
+HINT: Use "!" as the symbol in front of the songs!
 
 '''
 

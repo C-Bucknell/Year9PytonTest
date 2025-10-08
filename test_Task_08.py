@@ -13,7 +13,7 @@ class TestTask08(unittest.TestCase):
         main()
         output = mock_stdout.getvalue().strip()
         
-        expected_output = "Please welcome to the stage, The One Word Wonders!\nThey will be playing...\n🎵 Song\n🎵 Lyric\n🎵 Ballad\nGive it up for The One Word Wonders!"
+        expected_output = "Please welcome to the stage, The One Word Wonders!\nThey will be playing...\n! Song\n! Lyric\n! Ballad\nGive it up for The One Word Wonders!"
         self.assertEqual(output, expected_output)
 
     # Test 2
@@ -24,7 +24,7 @@ class TestTask08(unittest.TestCase):
         main()
         output = mock_stdout.getvalue().strip()
         
-        expected_output = "Please welcome to the stage, Lady Gaga!\nThey will be playing...\n🎵 Paparazzi\n🎵 Applause\n🎵 Shallow\nGive it up for Lady Gaga!"
+        expected_output = "Please welcome to the stage, Lady Gaga!\nThey will be playing...\n! Paparazzi\n! Applause\n! Shallow\nGive it up for Lady Gaga!"
         self.assertEqual(output, expected_output)
 
     # Test 3
@@ -35,7 +35,7 @@ class TestTask08(unittest.TestCase):
         main()
         output = mock_stdout.getvalue().strip()
         
-        expected_output = "Please welcome to the stage, Solo Artist!\nThey will be playing...\n🎵 Encore\nGive it up for Solo Artist!"
+        expected_output = "Please welcome to the stage, Solo Artist!\nThey will be playing...\n! Encore\nGive it up for Solo Artist!"
         self.assertEqual(output, expected_output)
 
     # Test 4
@@ -57,7 +57,7 @@ class TestTask08(unittest.TestCase):
         main()
         output = mock_stdout.getvalue().strip()
         
-        expected_output = "Please welcome to the stage, !\nThey will be playing...\n🎵 Song1\n🎵 Song2\nGive it up for !"
+        expected_output = "Please welcome to the stage, !\nThey will be playing...\n! Song1\n! Song2\nGive it up for !"
         self.assertEqual(output, expected_output)
 
     # Test 6
@@ -68,7 +68,7 @@ class TestTask08(unittest.TestCase):
         main()
         output = mock_stdout.getvalue().strip()
         
-        expected_output = "Please welcome to the stage, Multi-Word Band!\nThey will be playing...\n🎵 HitSong1\n🎵 HitSong2\n🎵 HitSong3\n🎵 HitSong4\n🎵 HitSong5\nGive it up for Multi-Word Band!"
+        expected_output = "Please welcome to the stage, Multi-Word Band!\nThey will be playing...\n! HitSong1\n! HitSong2\n! HitSong3\n! HitSong4\n! HitSong5\nGive it up for Multi-Word Band!"
         self.assertEqual(output, expected_output)
 
     # Test 7
@@ -79,7 +79,7 @@ class TestTask08(unittest.TestCase):
         main()
         output = mock_stdout.getvalue().strip()
         
-        expected_output = "Please welcome to the stage, Special!@#$%^&*()_+-={}[]|\\:;\"'<>,.?/~` Chars!\nThey will be playing...\n🎵 Song1\n🎵 Song2\nGive it up for Special!@#$%^&*()_+-={}[]|\\:;\"'<>,.?/~` Chars!"
+        expected_output = "Please welcome to the stage, Special!@#$%^&*()_+-={}[]|\\:;\"'<>,.?/~` Chars!\nThey will be playing...\n! Song1\n! Song2\nGive it up for Special!@#$%^&*()_+-={}[]|\\:;\"'<>,.?/~` Chars!"
         self.assertEqual(output, expected_output)
 
 if __name__ == '__main__':
